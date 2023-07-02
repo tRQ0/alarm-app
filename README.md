@@ -17,7 +17,7 @@
 
 The app at the top displays the alarm time at which it will trigger with additional information at the end. A tooltip will appear if you will place the cursor at the data present at the end of the alarm box
 The alarm has following features:
-- Alarm tone is played at the specified time and **cannot** be stopped once start playing
+    - Alarm tone is played at the specified time and **cannot** be stopped once start playing
     - Alarm box will turn **red** once **played** or if the time has **passed**
     - An **alert** is generated before the specified number of minutes
     - In the footer the fields signify 
